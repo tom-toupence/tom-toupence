@@ -55,7 +55,7 @@
 <div align="center">
   <h2>🐍 Mes contributions 🐍</h2>
   <br>
-  ![snake animation](https://github.com/tom-toupence/tom-toupence/blob/output/github-contribution-grid-snake2.svg)
+  <img src="output/github-contribution-grid-snake2.svg" />
   <br/><br/><br/>
 </div>
 
@@ -63,7 +63,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-toupence)](https://github.com/tom-toupence/github-readme-stats)</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-toupence)](https://github.com/tom-toupence/github-readme-stats)
+</div>
 
 <br/><br/>
 
