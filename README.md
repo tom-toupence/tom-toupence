@@ -30,23 +30,23 @@
 
  <hr/>
  
-<h2 align="center"> &#65039; Langages &#65039;</h2>
+<h2 align="center"> &#128104;&#8205;&#128187; Langages &#128104;&#8205;&#128187;</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,r,python,javascript,c,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,r,python,php,javascript,c,java,mysql" />
     <br>
 </div>
 <h2 align="center">&#128295; Outils &#128295;</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitLab" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,discord" />
   <br>
 </div>
 
 <h2 align="center">&#9881; Frameworks &#9881;</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,.NET" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,dotnet" />
     <br>
 </div>
 <br/>
