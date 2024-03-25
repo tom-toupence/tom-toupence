@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bonjour+👋 !;+Je+m'appelle+Tom+TOUPENCE!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+pro&duration=2500&pause=1000&color=8390FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Je suis un étudiant en école d'ingénieur</h3>
@@ -23,14 +23,14 @@
   <a href="https://www.linkedin.com/in/tom-toupence-20117429a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tom-toupence.github.io" target="_blank">
+  <a href="http://tom-toupence.fr" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">&#128295; Langages &#128295;</h2>
+<h2 align="center"> &#65039; Langages &#65039;</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,r,python,javascript,c,java,mysql" />
@@ -43,7 +43,7 @@
   <br>
 </div>
 
-<h2 align="center">&#128295; Frameworks &#128295;</h2>
+<h2 align="center">&#9881; Frameworks &#9881;</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,.NET" />
@@ -55,8 +55,7 @@
 <div align="center">
   <h2>🐍 Mes contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img src="https://github.com/tom-toupence/tom-toupence/blob/output/github-contribution-grid-snake2.svg" />
   <br/><br/><br/>
 </div>
 
