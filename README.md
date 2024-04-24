@@ -1,35 +1,27 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-toupence&hide_progress=true)]
 
+![Texte alternatif](https://visitor-badge.laobi.icu/badge?page_id=tom-toupence.tom-toupence)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Bonjour ! 😁
+## Je m'appelle TOUPENCE Tom !
+### Bienvenue sur mon profil Github !
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+pro&duration=2500&pause=1000&color=8390FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!" alt="Typing SVG" /></a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+pro&duration=2500&pause=1000&color=8390FF&center=true&vCenter=true&random=false&width=500&height=70&lines=)](https://git.io/typing-svg)
+### Je suis un étudiant en école d'ingénieur
 
-<h3 align="center">Je suis un étudiant en école d'ingénieur</h3>
-
-<br/>
+---
 
 <div align="center">
+  Je travaille actuellement sur des **projets WEB, algorithmes**
  
- &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
- 
- &#128214; J'apprends en ce moment **Java, Python, C, React**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:toupencetom@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/tom-toupence-20117429a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="http://tom-toupence.fr" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  J'apprends en ce moment **Java, Python, C, React**
 </div>
+
+<div align="center"> 
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:toupencetom@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-toupence-20117429a/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://tom-toupence.fr)
+</div>
+
 
  <hr/>
  
