@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-toupence&hide_progress=true)]
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -53,9 +56,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Mes contributions 🐍</h2>
+  <h2> Mes contributions </h2>
   <br>
-  
+  ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tom-toupence&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
   <br/><br/><br/>
 </div>
 
@@ -63,7 +66,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-toupence&hide_progress=true)]
 <br>
 <a href="https://github.com/tom-toupence/php_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tom-toupence&repo=php_project" />
