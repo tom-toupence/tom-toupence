@@ -2,8 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
 
-Je suis un étudiant en école d'ingénieur
-<br/>
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
+---
+
+
 
 <div align="center">
  
