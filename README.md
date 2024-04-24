@@ -63,7 +63,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-toupence&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-toupence&hide_progress=true)]
 <br>
 <a href="https://github.com/tom-toupence/php_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tom-toupence&repo=php_project" />
