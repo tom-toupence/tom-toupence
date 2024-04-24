@@ -1,12 +1,8 @@
 
-![Texte alternatif](https://visitor-badge.laobi.icu/badge?page_id=tom-toupence.visitor-badge)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+pro&duration=2500&pause=1000&color=8390FF&center=true&vCenter=true&random=false&width=500&height=70&lines=)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
 
-
-<h3 align="center">Je suis un étudiant en école d'ingénieur</h3>
-
+Je suis un étudiant en école d'ingénieur
 <br/>
 
 <div align="center">
