@@ -1,27 +1,33 @@
 
-![Texte alternatif](https://visitor-badge.laobi.icu/badge?page_id=tom-toupence.tom-toupence)
-
-# Bonjour ! 😁
-## Je m'appelle TOUPENCE Tom !
-### Bienvenue sur mon profil Github !
+![Texte alternatif](https://visitor-badge.laobi.icu/badge?page_id=tom-toupence.visitor-badge)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anonymous+pro&duration=2500&pause=1000&color=8390FF&center=true&vCenter=true&random=false&width=500&height=70&lines=)](https://git.io/typing-svg)
-### Je suis un étudiant en école d'ingénieur
 
----
+
+
+<h3 align="center">Je suis un étudiant en école d'ingénieur</h3>
+
+<br/>
 
 <div align="center">
-  Je travaille actuellement sur des **projets WEB, algorithmes**
  
-  J'apprends en ce moment **Java, Python, C, React**
-</div>
+ &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
+ 
+ &#128214; J'apprends en ce moment **Java, Python, C, React**
 
+ </div>
+ 
 <div align="center"> 
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:toupencetom@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-toupence-20117429a/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://tom-toupence.fr)
+  <a href="mailto:toupencetom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/tom-toupence-20117429a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="http://tom-toupence.fr" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
-
 
  <hr/>
  
