@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
 
- &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
+ &#128187; Je travaille actuellement sur des **projets WEB, algorithmes.**
  
- &#128214; J'apprends en ce moment **Java, Python, C, React**
+ &#128214; J'apprends en ce moment **Java, Python, C, React.**
 
 
 <div align="center"> 
@@ -60,11 +60,5 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
