@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tom-toupence&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+
  &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
  
  &#128214; J'apprends en ce moment **Java, Python, C, React**
@@ -45,7 +47,6 @@
 <div align="center">
   <h2> Mes contributions </h2>
   <br>
-  ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tom-toupence&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
   <br/><br/><br/>
 </div>
 
