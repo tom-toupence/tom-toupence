@@ -1,21 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
-
----
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
----
-
-
-
-<div align="center">
- 
  &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
  
  &#128214; J'apprends en ce moment **Java, Python, C, React**
 
- </div>
- 
+
 <div align="center"> 
   <a href="mailto:toupencetom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
