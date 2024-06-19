@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour+!+%F0%9F%98%81;Je+m'appelle+TOUPENCE+Tom+!;Bienvenue+sur+mon+profil+Github+!)](https://git.io/typing-svg)
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tom-toupence&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
  &#128187; Je travaille actuellement sur des **projets WEB, algorithmes**
  
@@ -44,15 +43,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2> Mes contributions </h2>
-  <br>
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Projets ⚡</h2>
 <br>
 <br>
 <a href="https://github.com/tom-toupence/php_project">
@@ -60,6 +51,10 @@
 </a>
 <a href="https://github.com/tom-toupence/Projet-Tutore-3A">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tom-toupence&repo=Projet-Tutore-3A" />
+</a>
+
+<a href="https://github.com/tom-toupence/Sokoban">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tom-toupence&repo=Sokoban" />
 </a>
 
 <br/><br/>
