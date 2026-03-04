@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Animated Pac-Man
 
 on:
   workflow_dispatch:
@@ -9,20 +9,26 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (pacman style)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: tom-toupence
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark
-            dist/pacman-contribution-graph-light.svg?palette=github-light
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Deploy to output branch
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate dark SVG
+        run: node scripts/pacman-animated.js --user=tom-toupence --theme=dark --out=dist/pacman-contribution-graph.svg
+
+      - name: Generate light SVG
+        run: node scripts/pacman-animated.js --user=tom-toupence --theme=light --out=dist/pacman-contribution-graph-light.svg
+
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: dist
+          publish_branch: output
