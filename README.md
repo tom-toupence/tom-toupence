@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=250&section=header&text=TOUPENCE%20Tom&fontSize=55&fontColor=ff79c6&animation=twinkling&fontAlignY=30&desc=%E9%9B%BB%E8%84%B3%E6%9C%AA%E6%9D%A5%20%E2%80%94%20AI%20Engineer%20%2F%2F%20Full-Stack%20Developer&descSize=15&descAlignY=52&descColor=8be9fd)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=250&section=header&text=TOUPENCE%20Tom&fontSize=55&fontColor=ff79c6&animation=twinkling&fontAlignY=30&desc=%E9%9B%BB%E8%84%B3%E6%9C%AA%E6%9D%A5%20%E2%80%94%20AI%20Engineer%20//%20Full-Stack%20Developer&descSize=15&descAlignY=52&descColor=8be9fd" width="100%" />
+</p>
 
 <div align="center">
 
@@ -16,18 +18,17 @@
 
 </div>
 
-<br/>
+<!-- ═══════════════════ SEPARATOR: Torii Gate Pixel Art ═══════════════════ -->
 
-```
-                                                ⛩
-                                               ┌┴┐
-                                              ─┤ ├─
-                                               │ │         「 技術スタック 」
-                                               │ │          Tech Stack
-                                            ───┘ └───
-```
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="80" />
+</p>
 
 <div align="center">
+
+### 「 技術スタック ─ Tech Stack 」
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,r,php&theme=dark" />
 <br/><sub>言語 ─ Langages</sub>
@@ -63,13 +64,11 @@
 
 </div>
 
-<br/>
+<!-- ═══════════════════ SEPARATOR: Japanese Pixel City ═══════════════════ -->
 
-```
-              🌸                                                                         🌸
-    ─── ⋅ 風 ⋅ ─────────────────── ⋅ 林 ⋅ ─────────────────── ⋅ 火 ⋅ ─────────────────── ⋅ 山 ⋅ ───
-              🌸                                                                         🌸
-```
+<p align="center">
+  <img src="https://media.tenor.com/zhIBbS-GRlMAAAAd/japan-aesthetic-ity.gif" width="600" />
+</p>
 
 <div align="center">
 
@@ -122,15 +121,11 @@
 
 </details>
 
-<br/>
+<!-- ═══════════════════ SEPARATOR: Torii Pixel Landscape ═══════════════════ -->
 
-```
-          ┊          ┊          ┊          ┊
-          ┊     ✧    ┊    ☆    ┊          ┊       七転び八起き
-          ✧          ┊         ┊     ✧    ┊       Tomber sept fois, se relever huit
-          ┊          ★         ┊          ┊
-          ┊          ┊         ✧          ★
-```
+<p align="center">
+  <img src="https://media.tenor.com/WkMxNrpFjWkAAAAd/japan-torii.gif" width="600" />
+</p>
 
 <div align="center">
 
@@ -155,19 +150,11 @@
 
 </div>
 
-<br/>
+<!-- ═══════════════════ SEPARATOR: Anime Forest Torii ═══════════════════ -->
 
-```
-                                          _
-                                         | |
-                                        _|_|_
-                                       |     |
-          🌊 ～～～～～～～～～～～～～ |  灯  | ～～～～～～～～～～～～～ 🌊
-                                       |     |
-                                       |_____|
-                                         | |
-                                         |_|
-```
+<p align="center">
+  <img src="https://media.tenor.com/o656qFKDzeUAAAAd/anime-scenery.gif" width="600" />
+</p>
 
 <div align="center">
 
@@ -181,40 +168,22 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake.svg" />
 </picture>
 
-</div>
-
-<br/>
-
-```
-                         ___
-                        |   |___
-                   _____|       |_____
-                  |  ___   ___   ___  |
-                  | |   | |   | |   | |       「 道 」
-                  | |___| |___| |___| |        La voie du code
-                  |___________________|
-                       |         |
-                  ─────┘         └─────
-```
-
-<div align="center">
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
 
 <br/><br/>
 
-```
-              ⛩                                                        ⛩
-             ┌┴┐                                                      ┌┴┐
-            ─┤ ├─     一期一会 ─ Chaque rencontre est unique         ─┤ ├─
-             │ │                                                       │ │
-          ───┘ └───                                                 ───┘ └───
-```
+<img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="60" />
 
 <br/>
+
+*一期一会 ─ Chaque rencontre est unique*
 
 <sub>電脳未来 ─ Built with passion from Grasse, France 🇫🇷</sub>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=130&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=130&section=footer" width="100%" />
+</p>
