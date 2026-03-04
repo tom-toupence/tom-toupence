@@ -1,83 +1,119 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=250&section=header&text=TOUPENCE%20Tom&fontSize=55&fontColor=ff79c6&animation=twinkling&fontAlignY=30&desc=%E9%9B%BB%E8%84%B3%E6%9C%AA%E6%9D%A5%20%E2%80%94%20AI%20Engineer%20//%20Full-Stack%20Developer&descSize=15&descAlignY=52&descColor=8be9fd" width="100%" />
+  <img src="./japan-neon.gif" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+Welcome+to+my+profile;%E6%9C%AA%E6%9D%A5%E3%82%92%E5%89%B5%E3%82%8B+%E2%80%94+Building+the+future+with+AI;MCP+%2F%2F+RAG+%2F%2F+GraphRAG+%2F%2F+Machine+Learning" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tom-toupence&label=%E8%A8%AA%E5%95%8F%E8%80%85&color=bd93f9&style=flat-square&labelColor=0d1117" alt="visitors" />
-
-<br/><br/>
-
-<a href="mailto:toupencetom@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff79c6" /></a>
-<a href="https://www.linkedin.com/in/tom-toupence-20117429a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" /></a>
-<a href="http://tom-toupence.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=bd93f9" /></a>
-
-</div>
-
-<!-- ═══════════════════ SEPARATOR: Torii Gate Pixel Art ═══════════════════ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=TOUPENCE+Tom;%E9%9B%BB%E8%84%B3%E6%9C%AA%E6%9D%A5+%E2%80%94+AI+Engineer;Full-Stack+Developer+%40+Polytech+Nice" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="80" />
+  <img src="https://komarev.com/ghpvc/?username=tom-toupence&label=%E8%A8%AA%E5%95%8F%E8%80%85+%2F+Visitors&color=bd93f9&style=for-the-badge&labelColor=0d1117" alt="visitors" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:toupencetom@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff79c6" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tom-toupence-20117429a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" /></a>&nbsp;
+  <a href="http://tom-toupence.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=bd93f9" /></a>
+</p>
 
-### 「 技術スタック ─ Tech Stack 」
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,r,php&theme=dark" />
-<br/><sub>言語 ─ Langages</sub>
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="50" />
+</p>
 
-<br/><br/>
+<h2 align="center">🏮 言語 ─ Langages</h2>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,spring,flask,bootstrap,ros&theme=dark" />
-<br/><sub>フレームワーク ─ Frameworks</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,r,php&theme=dark" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,docker,jenkins,discord&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/JFrog-0d1117?style=flat-square&logo=jfrog&logoColor=8be9fd" />
-<img src="https://img.shields.io/badge/Docker_Hub-0d1117?style=flat-square&logo=docker&logoColor=8be9fd" />
-<br/><sub>ツール ─ Outils</sub>
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="50" />
+</p>
 
-<br/><br/>
+<h2 align="center">🏮 フレームワーク ─ Frameworks</h2>
 
-<img src="https://img.shields.io/badge/RAG-ff79c6?style=for-the-badge&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/GraphRAG-bd93f9?style=for-the-badge&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/MCP-8be9fd?style=for-the-badge&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/RDF_Graphs-ff79c6?style=for-the-badge&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Machine_Learning-bd93f9?style=for-the-badge&logoColor=0d1117" />
-<br/><sub>人工知能 ─ IA & Data</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,spring,flask,bootstrap,ros&theme=dark" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=8be9fd" />
-<img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=ff79c6" />
-<br/><sub>データベース ─ Bases de données</sub>
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="50" />
+</p>
 
-</div>
+<h2 align="center">🏮 ツール ─ Outils</h2>
 
-<!-- ═══════════════════ SEPARATOR: Japanese Pixel City ═══════════════════ -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,docker,jenkins,discord&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JFrog-0d1117?style=for-the-badge&logo=jfrog&logoColor=8be9fd" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker_Hub-0d1117?style=for-the-badge&logo=docker&logoColor=8be9fd" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="50" />
+</p>
+
+<h2 align="center">🏮 人工知能 ─ IA & Data</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-ff79c6?style=for-the-badge&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/GraphRAG-bd93f9?style=for-the-badge&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/MCP-8be9fd?style=for-the-badge&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/RDF_Graphs-ff79c6?style=for-the-badge&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Machine_Learning-bd93f9?style=for-the-badge&logoColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="50" />
+</p>
+
+<h2 align="center">🏮 データベース ─ Bases de données</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=8be9fd" />&nbsp;
+  <img src="https://img.shields.io/badge/Qdrant-0d1117?style=for-the-badge&logo=qdrant&logoColor=ff79c6" />
+</p>
+
+<!-- ════════════════════════════ PROJETS ════════════════════════════ -->
+
+<p align="center"><br/></p>
 
 <p align="center">
   <img src="https://media.tenor.com/zhIBbS-GRlMAAAAd/japan-aesthetic-ity.gif" width="600" />
 </p>
 
-<div align="center">
+<p align="center"><br/></p>
 
-### 「 プロジェクト ─ Projets 」
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff79c6,100:bd93f9&height=45&section=header&text=%E3%80%8C%20%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%20%E2%94%80%20Projets%20%E3%80%8D&fontSize=20&fontColor=0d1117&fontAlignY=55" width="400" />
+</p>
 
 <details>
-<summary>&nbsp;&nbsp;🏮 <b>人工知能</b>&nbsp;&nbsp;─&nbsp;&nbsp;AI & Machine Learning</summary>
+<summary>&nbsp;&nbsp;🏮&nbsp;&nbsp;<b>人工知能 ─ AI & Machine Learning</b></summary>
 <br/>
 
 | Projet | Description | Stack |
@@ -88,7 +124,7 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;🏮 <b>ウェブ</b>&nbsp;&nbsp;─&nbsp;&nbsp;Web</summary>
+<summary>&nbsp;&nbsp;🏮&nbsp;&nbsp;<b>ウェブ ─ Web</b></summary>
 <br/>
 
 | Projet | Description | Stack |
@@ -100,7 +136,7 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;🏮 <b>可視化</b>&nbsp;&nbsp;─&nbsp;&nbsp;Visualisation & Simulation</summary>
+<summary>&nbsp;&nbsp;🏮&nbsp;&nbsp;<b>可視化 ─ Visualisation & Simulation</b></summary>
 <br/>
 
 | Projet | Description | Stack |
@@ -111,7 +147,7 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;🏮 <b>算法</b>&nbsp;&nbsp;─&nbsp;&nbsp;Algorithmique & Systèmes</summary>
+<summary>&nbsp;&nbsp;🏮&nbsp;&nbsp;<b>算法 ─ Algorithmique & Systèmes</b></summary>
 <br/>
 
 | Projet | Description | Stack |
@@ -121,69 +157,81 @@
 
 </details>
 
-<!-- ═══════════════════ SEPARATOR: Torii Pixel Landscape ═══════════════════ -->
+<!-- ════════════════════════════ STATS ════════════════════════════ -->
+
+<p align="center"><br/></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/WkMxNrpFjWkAAAAd/japan-torii.gif" width="600" />
+  <img src="https://media.tenor.com/DzO8FJnnejgAAAAd/pixel-neon-rain.gif" width="600" />
 </p>
 
-<div align="center">
+<p align="center"><br/></p>
 
-### 「 統計 ─ Stats 」
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8be9fd,100:bd93f9&height=45&section=header&text=%E3%80%8C%20%E7%B5%B1%E8%A8%88%20%E2%94%80%20Stats%20%E3%80%8D&fontSize=20&fontColor=0d1117&fontAlignY=55" width="300" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-toupence&theme=dracula&hide_border=true&background=0d1117&stroke=ff79c6&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd&sideLabels=bd93f9&currStreakNum=8be9fd&sideNums=ff79c6&dates=6272a4" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-toupence&theme=dracula&hide_border=true&background=0d1117&stroke=ff79c6&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd&sideLabels=bd93f9&currStreakNum=8be9fd&sideNums=ff79c6&dates=6272a4" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom-toupence&theme=dracula" alt="Profile Details" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tom-toupence&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tom-toupence&theme=dracula" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom-toupence&theme=dracula" alt="Profile Details" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tom-toupence&theme=dracula&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" />
+</p>
 
-<br/>
+<!-- ════════════════════════════ CONTRIBUTIONS ════════════════════════════ -->
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tom-toupence&theme=dracula" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tom-toupence&theme=dracula" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tom-toupence&theme=dracula&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" />
-
-</div>
-
-<!-- ═══════════════════ SEPARATOR: Anime Forest Torii ═══════════════════ -->
+<p align="center"><br/></p>
 
 <p align="center">
   <img src="https://media.tenor.com/o656qFKDzeUAAAAd/anime-scenery.gif" width="600" />
 </p>
 
-<div align="center">
-
-### 「 貢献 ─ Contributions 」
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-
-<br/><br/>
-
-<img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="60" />
-
-<br/>
-
-*一期一会 ─ Chaque rencontre est unique*
-
-<sub>電脳未来 ─ Built with passion from Grasse, France 🇫🇷</sub>
-
-</div>
+<p align="center"><br/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=130&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff79c6,100:8be9fd&height=45&section=header&text=%E3%80%8C%20%E8%B2%A2%E7%8C%AE%20%E2%94%80%20Contributions%20%E3%80%8D&fontSize=20&fontColor=0d1117&fontAlignY=55" width="400" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ════════════════════════════ FOOTER ════════════════════════════ -->
+
+<p align="center"><br/></p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</p>
+
+<p align="center"><br/></p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2jBSGKZfEW0AAAAi/anime-torii.gif" height="60" />
+</p>
+
+<p align="center">
+  <i>一期一会 ─ Chaque rencontre est unique</i>
+</p>
+
+<p align="center">
+  <sub>電脳未来 ─ Built with passion from Grasse, France 🇫🇷</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:292a3e,100:0d1117&height=120&section=footer" width="100%" />
 </p>
