@@ -66,9 +66,9 @@
 
 | Projet | Description | Langage |
 |--------|------------|---------|
-| [&#128206; Projet-Tutore-3A](https://github.com/tom-toupence/Projet-Tutore-3A) | Projet tutoré 3ème année | ![](https://img.shields.io/github/languages/top/tom-toupence/Projet-Tutore-3A?style=flat-square) |
-| [&#127922; Sokoban](https://github.com/tom-toupence/Sokoban) | Jeu Sokoban | ![](https://img.shields.io/github/languages/top/tom-toupence/Sokoban?style=flat-square) |
-| [&#127760; php_project](https://github.com/tom-toupence/php_project) | Projet PHP | ![](https://img.shields.io/github/languages/top/tom-toupence/php_project?style=flat-square) |
+| [Projet-Tutore-3A](https://github.com/tom-toupence/Projet-Tutore-3A) | Projet tutoré 3ème année | ![](https://img.shields.io/github/languages/top/tom-toupence/Projet-Tutore-3A?style=flat-square) |
+| [Sokoban](https://github.com/tom-toupence/Sokoban) | Jeu Sokoban | ![](https://img.shields.io/github/languages/top/tom-toupence/Sokoban?style=flat-square) |
+| [php_project](https://github.com/tom-toupence/php_project) | Projet PHP | ![](https://img.shields.io/github/languages/top/tom-toupence/php_project?style=flat-square) |
 
 </div>
 
