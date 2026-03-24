@@ -96,9 +96,9 @@
 <h2 align="center">🐍 Mes contributions</h2>
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/refs/heads/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tom-toupence/tom-toupence/refs/heads/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tom-toupence/tom-toupence/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://cdn.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph.svg">
 </picture>
 </div>
 </div>
