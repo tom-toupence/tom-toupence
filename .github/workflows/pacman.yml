@@ -1,27 +1,23 @@
 name: generate pacman game
-
 on:
-  schedule: # Run automatically every 24 hours
+  schedule:
     - cron: "0 * * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  workflow_dispatch:
+  push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -29,3 +25,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl "https://purge.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph.svg"
+          curl "https://purge.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph-dark.svg"
+          curl "https://purge.jsdelivr.net/gh/tom-toupence/tom-toupence@output/pacman-contribution-graph-light.svg"
